@@ -1,0 +1,4 @@
+module KingIdSDKOld [system] {
+    header "KingIdSDKController.h"
+    export *
+}
