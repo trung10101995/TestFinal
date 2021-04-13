@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "NewFinal"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "A short description of NewFinal."
 
   s.description  = <<-DESC
@@ -27,13 +27,13 @@ Pod::Spec.new do |s|
   #   * Finally, don't worry about the indent, CocoaPods strips it!
                    DESC
 
-  s.homepage     = "https://github.com/marmelroy/Zip"
+  s.homepage     = "https://github.com/trung10101995/TestFinal"
 
   s.license      = "MIT"
 
   s.author             = { "TrungCrit" => "Trung10101995@gmail.com" }
 
-  s.source       = { :git => "https://github.com/marmelroy/Zip.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/trung10101995/TestFinal.git", :tag => "#{s.version}" }
 
   s.source_files = 'NewFinal/*.{swift,h}',
   s.public_header_files = 'NewFinal/*.h'
